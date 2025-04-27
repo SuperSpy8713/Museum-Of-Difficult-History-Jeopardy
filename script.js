@@ -8,39 +8,39 @@ const categories = [
 
 const questions = [
     [
-        { q: "Who led the Khmer Rouge?", a: "Pol Pot" },
-        { q: "What was Pol Pot’s birth name?", a: "Saloth Sar" },
-        { q: "What political party did the Khmer Rouge belong to?", a: "Communist Party of Kampuchea" },
-        { q: "Who was known as \"Brother Number Two\"?", a: "Nuon Chea" },
-        { q: "What happened to Khmer Rouge leaders after the genocide?", a: "They were put on trial for crimes" }
+        { q: "	Who was the leader of the Khmer Rouge?", a: "Pol Pot" },
+        { q: "What year did the Khmer Rouge take over Cambodia?", a: "1975" },
+        { q: "	What was the Khmer Rouge’s goal for society?", a: "To create a classless farming society" },
+        { q: "About how many people died during the Cambodian Genocide?"?", a: "Around 2 million" },
+        { q: "Which group was especially targeted by the Khmer Rouge?", a: "Intellectuals" }
     ],
     [
-        { q: "In what year did the Khmer Rouge capture Phnom Penh?", a: "1975" },
-        { q: "Why did the Khmer Rouge force people out of the cities?", a: "To move them to farms under evacuation orders" },
-        { q: "What were the forced labor camps called?", a: "Cooperatives" },
-        { q: "How many years did the Khmer Rouge rule Cambodia?", a: "4 years" },
-        { q: "What event led to the fall of the Khmer Rouge?", a: "Vietnamese invasion" }
+        { q: "What was abolished by the Khmer Rouge (money, schools, or religion)?", a: "All 3 were banned" },
+        { q: "What type of work were people forced to do?", a: "Farming" },
+        { q: "How were "enemies" often identified?", a: "Wearing glasses" },
+        { q: "What happened to families under Khmer Rouge rule?", a: "Families were separated" },
+        { q: "What happened when the Khmer Rouge forced unrealistic farm quotas?", a: "Mass starvation" }
     ],
     [
-        { q: "What group was especially targeted by the Khmer Rouge?", a: "Intellectuals" },
-        { q: "What were the \"Killing Fields\"?", a: "Mass grave sites" },
-        { q: "How did many survivors escape Cambodia?", a: "Through refugee camps" },
-        { q: "What mental health disorder affected many survivors?", a: "PTSD" },
-        { q: "What kind of marriages did the Khmer Rouge force on people?", a: "Forced marriages" }
+        { q: "What were the mass killing sites called?", a: "The Killing Fields" },
+        { q: "What building was turned into a prison by the Khmer Rouge?", a: "Tuol Sleng Prison" },
+        { q: "How many prisoners survived Tuol Sleng out of about 17,000?", a: "Around 12" },
+        { q: "Which country overthrew the Khmer Rouge?", a: "Vietnam" },
+        { q: "What happened after Vietnam invaded Cambodia?", a: "The Khmer Rouge collapsed" }
     ],
     [
-        { q: "How did the world respond during the Cambodian genocide?", a: "Stayed silent" },
-        { q: "What court was created to try Khmer Rouge leaders?", a: "ECCC (Extraordinary Chambers in the Courts of Cambodia)" },
-        { q: "What major event distracted global attention from Cambodia?", a: "The Cold War" },
-        { q: "Which two countries supported the Khmer Rouge?", a: "United States and China" },
-        { q: "Around what year did trials for Khmer Rouge crimes begin?", a: "2006" }
+        { q: "What happened when money, schools, and religion were abolished?", a: "Social systems collapsed" },
+        { q: "What happened when intellectuals were distrusted?", a: "Many were executed" },
+        { q: "What happened when families were broken apart?", a: "Children were recruited as spies" },
+        { q: "Why did fear and violence rule Cambodia?", a: "Constant terror and killings" },
+        { q: "Why was the world slow to respond?", a: "The Cold War distracted global attention" }
     ],
     [
         { q: "Why is it important to study the Khmer Rouge genocide?", a: "To prevent future genocides" },
-        { q: "Name a famous memorial to Khmer Rouge victims.", a: "Tuol Sleng Museum" },
+        { q: "What is one famous memorial from the genocide?", a: "Tuol Sleng Museum" },
         { q: "What symbol is often used at memorial sites?", a: "Skulls and bones" },
         { q: "What economic effects did the genocide leave on Cambodia?", a: "Poverty and illiteracy" },
-        { q: "What role do survivors play today?", a: "Teaching human rights" }
+        { q: "	What role do survivors have today?", a: "Teaching human rights" }
     ]
 ];
 
